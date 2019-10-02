@@ -34,6 +34,6 @@ void main(){
     }
     quick_sort (numeros,dados);//função
 
-printf("--------------------------\n Tempo da Ordenacao: %.3fs\n --------------------------\n", timedif);
+printf("\n--------------------------\n Tempo gasto: %.3fs\n --------------------------\n", timedif);
 
 }
